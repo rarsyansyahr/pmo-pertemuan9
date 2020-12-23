@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "698871015712",
+    "firebase_url": "https://absenku-mikro.firebaseio.com",
+    "project_id": "absenku-mikro",
+    "storage_bucket": "absenku-mikro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698871015712:android:12ea0f661dcefeec194f45",
+        "android_client_info": {
+          "package_name": "com.rar.pertemuan9"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698871015712-27thnp5amj7sp79uo285fkkq3p1n15fl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZRdm8hhiozhrDOM2o2FP3FyQGShLbddw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698871015712-27thnp5amj7sp79uo285fkkq3p1n15fl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698871015712:android:f067b55130721b22194f45",
+        "android_client_info": {
+          "package_name": "com.rar.pertemuan9ku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698871015712-27thnp5amj7sp79uo285fkkq3p1n15fl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZRdm8hhiozhrDOM2o2FP3FyQGShLbddw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698871015712-27thnp5amj7sp79uo285fkkq3p1n15fl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698871015712:android:3995a6fe7314dcc5194f45",
+        "android_client_info": {
+          "package_name": "com.ti18s.absenku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698871015712-27thnp5amj7sp79uo285fkkq3p1n15fl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZRdm8hhiozhrDOM2o2FP3FyQGShLbddw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698871015712-27thnp5amj7sp79uo285fkkq3p1n15fl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
